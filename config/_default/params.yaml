@@ -5,9 +5,11 @@
 
 # Appearance
 
-theme: minimal
+#theme: minimal
+theme: 1950s
 day_night: false
-font: native
+# font: native
+font: minimal  # can be minimal, classic, rose, mr robot, native
 font_size: L
 
 # SEO
