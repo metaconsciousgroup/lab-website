@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computational Neuroscience and Artificial Intelligence.
 
 interests:
 - Computational Neuroscience
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'rxie9596@outlook.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/YuXie9596
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=6WgWvQUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/YuXie96
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +65,6 @@ user_groups:
 - Grad Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yudi Xie a Ph.D. student at the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology. Before graduate school, Yudi got my bachelor's degree in Physics from the University of Science and Technology of China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In grad school, Yudi is particularly interested in several questions. For example, how does the brain learn, maintain, and manipulate mental abstractions about surroundings? How does the brain transform highly abstract plans into continuous high-dimensional motor output? How does intrinsic motivation guide learning? Currently, Yudi is working with Prof. Robert Guangyu Yang on building artificial neural network models of working memory to investigate how we flexibly store and manipulate information.
