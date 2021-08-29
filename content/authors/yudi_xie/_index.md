@@ -21,21 +21,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Computational Neuroscience
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Brain and Cognitive Science
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019 - 2020, 2021 - Present
+  - course: BS in Physics
+    institution: University of Science and Technology of China
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
