@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Brain and Cognitive Science
     institution: Massachusetts Institute of Technology
-    year: 2019 - 2020, 2021 - Present
+    year: 2019, 2021 - Present
   - course: BS in Physics
     institution: University of Science and Technology of China
     year: 2015 - 2019
