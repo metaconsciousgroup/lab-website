@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yudi Xie (谢禹)
+title: Yudi Xie
 
 # Username (this should match the folder name)
 authors:
@@ -65,6 +65,6 @@ user_groups:
 - Grad Students
 ---
 
-Yudi Xie a Ph.D. student at the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology. Before graduate school, Yudi got my bachelor's degree in Physics from the University of Science and Technology of China.
+Yudi Xie a Ph.D. student at the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology. Before graduate school, Yudi got his bachelor's degree in Physics from the University of Science and Technology of China.
 
 In grad school, Yudi is particularly interested in several questions. For example, how does the brain learn, maintain, and manipulate mental abstractions about surroundings? How does the brain transform highly abstract plans into continuous high-dimensional motor output? How does intrinsic motivation guide learning? Currently, Yudi is working with Prof. Robert Guangyu Yang on building artificial neural network models of working memory to investigate how we flexibly store and manipulate information.
