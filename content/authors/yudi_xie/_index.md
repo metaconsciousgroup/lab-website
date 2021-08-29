@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computational Neuroscience and Artificial Intelligence.
+bio: My research interests include computational neuroscience and reinforcement learning.
 
 interests:
 - Computational Neuroscience
-- Artificial Intelligence
+- Reinforcement Learning
 
 education:
   courses:
