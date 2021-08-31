@@ -18,24 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural and artificial intelligence.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Neuroscience
+    institution: Columbia University
+#    year: 2012
+  - course: BS in Physics, BS in Mathematics
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#    year: 2009
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
