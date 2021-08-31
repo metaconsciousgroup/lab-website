@@ -70,6 +70,7 @@ user_groups:
 ---
 
 I am interested in natural and artificial intelligence. 
+
 If you are a student interested in doing research together please send me an email.
 
 
