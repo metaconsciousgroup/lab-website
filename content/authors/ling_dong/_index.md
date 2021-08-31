@@ -18,17 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational neuroscience and reinforcement learning.
+bio: I am a graduate student in the Brain and Cognitive Sciences department at MIT. I am broadly interested in the intersection between the computational and neurosciences, that is: how can mathematical and computational methods be used to better understand the mind, and how can insights about the mind in turn be used to inform algorithmic and architectural solutions to modern computational challenges? My current focus lies on the cognitive map and how the brain performs abstraction for efficient knowledge representation and flexible inferences.
+
+Previously, I worked on investigating strategies utilizing the unique social roles occupied by robots to elicit social facilitation and improve team dynamics in human-robot teams at the Yale Social Robotics Lab, as well as on public opinion forecasting and analyzing patterns of production and consumption in online news at Microsoft Research New York. More generally, I am interested in the applications of data science for social good, particularly in the fields of education and healthcare.![image](https://user-images.githubusercontent.com/5421926/131569738-031ce69a-3921-4578-828b-c504f2a7f553.png)
+
 
 interests:
 - Computational Neuroscience
 - Learning and Memory
-- Abstraction
+- Knowledge Representation
 - Reinforcement Learning
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Brain and Cognitive Science
+  - course: PhD in Brain and Cognitive Sciences
     institution: Massachusetts Institute of Technology
     year: 2020 - Present
   - course: BA in Computer Science and Psychology
@@ -49,9 +53,9 @@ social:
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=
-# - icon: github
-#  icon_pack: fab
-# link: https://github.com/asprout
+- icon: github
+  icon_pack: fab
+  link: https://github.com/asprout
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
