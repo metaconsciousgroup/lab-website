@@ -22,16 +22,22 @@ bio: My research interests include computational neuroscience and reinforcement 
 
 interests:
 - Computational Neuroscience
+- Cognitive Science
 - Reinforcement Learning
+- Self-Modeling
 
 education:
   courses:
   - course: PhD in Brain and Cognitive Science
     institution: Massachusetts Institute of Technology
-    year: 2019, 2021 - Present
-  - course: BS in Physics
-    institution: University of Science and Technology of China
+    year: 2020 - Present
+  - course: Post-Bacc in Brain and Cognitive Science
+    institution: Kansas State University
     year: 2015 - 2019
+  - course: BS in Computer Science
+    institution: Kansas State University
+    year: 2015 - 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'rxie9596@outlook.com'
+  link: 'dlatorre@mit.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/YuXie9596
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=6WgWvQUAAAAJ
+  link: https://twitter.com/fernanda_dltr
 - icon: github
   icon_pack: fab
-  link: https://github.com/YuXie96
+  link: https://github.com/delamarifer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +67,7 @@ email: ""
 user_groups:
 - Grad Students
 ---
+Most of us have an experience of self. Our behaviors reflect the belief that we are autonomous individuals with coherent identities and a sense of free will. I'm interested in exploring why this form of self-representation and sense of agency emerges. Are there functional advantages to these cognitive phenomena? I'm exploring this question with Robert Yang by building "models of self" in a deep reinforcement learning framework.  
 
-I am a Ph.D. student at the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology. Before graduate school, I got my bachelor's degree in Physics from the University of Science and Technology of China.
+I'm also co-advised by Josh McDermott, where I study how humans integrate vision and sound to form a coherent percept. Prior to starting my PhD at BCS, I was a post-bacc student here, and before that I studied Computer Science at Kansas State University for undergrad. 
 
-I am particularly interested in several questions. For example, how does the brain learn, maintain, and manipulate mental abstractions about surroundings? How does the brain transform highly abstract plans into continuous high-dimensional motor output? How does intrinsic motivation guide learning? Currently, I am working with Prof. Robert Guangyu Yang on building artificial neural network models of working memory to investigate how we flexibly store and manipulate information.
