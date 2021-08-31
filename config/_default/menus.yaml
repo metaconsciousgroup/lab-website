@@ -19,6 +19,6 @@ main:
   - name: Talks
     url: talks
     weight: 60
-  - name: Apply
-    url: apply
+  - name: Contact
+    url: contact
     weight: 70

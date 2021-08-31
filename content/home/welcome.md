@@ -21,4 +21,4 @@ design:
 
 The **MetaConscious Group** is directed by Guangyu Robert Yang at MIT. We
  study how to build functional models of brains, with a particular interest
-  in cognition.
+  in cognition. This website is still under construction.

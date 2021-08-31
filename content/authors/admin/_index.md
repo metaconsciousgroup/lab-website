@@ -50,9 +50,9 @@ social:
   link: https://twitter.com/GuangyuRobert
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV_GuangyuRobertYang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,5 +67,5 @@ user_groups:
 ---
 
 I am an Assistant Professor at MIT. I like to build functional models of
- brains.
+ brains. My name in Chinese is 杨光宇.
 
