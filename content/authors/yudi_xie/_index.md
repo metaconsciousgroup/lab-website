@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yudi Xie
+title: Yu (Yudi) Xie 谢禹
 
 # Username (this should match the folder name)
 authors:
@@ -68,10 +68,12 @@ user_groups:
 I am a Ph.D. student at the Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology. Before graduate school, I got my bachelor's degree in Physics from the University of Science and Technology of China.
 
 My research focus is building large-scale learning models of the brain. Learning is critical for intelligence. We already know there are many kinds of learning, such as supervised learning, unsupervised learning, and reinforcement learning. However, people mostly studied different kinds of learning separately. I am working on building large scale models that account for how different kinds of learning happen and interact in distributed processes in the brain. Several key component of learning are already identified:
-1. fast, few-shot learning and inference in the prefrontal areas
-2. slow but important procedural learning in the basal ganglia
-3. unsupervised learning in the cortex
-4. supervised learning in the cerebellum
+
+1. fast, few-shot learning and inference in the prefrontal areas,
+2. slow but important procedural learning in the basal ganglia,
+3. unsupervised learning in the cortex,
+4. supervised learning in the cerebellum,
 5. and a motivation system generate goals and reinforcement that facilitate learning.
+
 
 In the end, I hope to build a unified model that combine all these components. I will use the model to generate testable predictions about learning behavior in human and animal. The model will be compared and validated by neural recoding data. Besides the brain, the model will provide important insights about how to build intelligent machine, for example providing insights to hierarchical reinforcement learning and the value alignment problem in AI.
