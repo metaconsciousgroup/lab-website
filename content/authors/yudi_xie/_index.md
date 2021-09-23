@@ -73,4 +73,5 @@ My research focus is building large-scale learning models of the brain. Learning
 3. unsupervised learning in the cortex
 4. supervised learning in the cerebellum
 5. and a motivation system generate goals and reinforcement that facilitate learning.
+
 In the end, I hope to build a unified model that combine all these components. I will use the model to generate testable predictions about learning behavior in human and animal. The model will be compared and validated by neural recoding data. Besides the brain, the model will provide important insights about how to build intelligent machine, for example providing insights to hierarchical reinforcement learning and the value alignment problem in AI.
