@@ -22,7 +22,7 @@ bio: My research interests include computational neuroscience and reinforcement 
 
 interests:
 - Computational Neuroscience
-- Reinforcement Learning
+- Learning
 
 education:
   courses:
