@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu (Yudi) Xie 谢禹
+title: Yudi Xie
 
 # Username (this should match the folder name)
 authors:
