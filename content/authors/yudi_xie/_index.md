@@ -21,9 +21,10 @@ organizations:
 bio: My research interests are learning and decision making.
 
 interests:
-- Computational Neuroscience
 - Learning
+- Motivated Behavior
 - Decision Making
+- Computational Neuroscience
 
 education:
   courses:
