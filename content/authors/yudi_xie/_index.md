@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yuxie9596@gmail.com'
+  link: "mailto:yudixie235@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YuXie9596
