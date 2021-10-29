@@ -10,6 +10,12 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Value
+    url: value
+    weight: 40
+  - name: Research
+    url: research
+    weight: 40
 #  - name: Events
 #    url: event
 #    weight: 40

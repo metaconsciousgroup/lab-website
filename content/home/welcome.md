@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   MetaConscious Group
-hero_media: welcome.jpg
+hero_media: metaconscious_club2021_happy.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,6 +19,6 @@ design:
 
 <br>
 
-The **MetaConscious Group** is directed by Guangyu Robert Yang at MIT. We
- study how to build functional models of brains, with a particular interest
-  in cognition. This website is still under construction.
+At the **MetaConscious Group**, we study how to build functional models of
+ brains, with a particular interest in cognition. The group is directed by
+  Guangyu Robert Yang at MIT.

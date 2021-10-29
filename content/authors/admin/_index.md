@@ -68,4 +68,6 @@ user_groups:
 
 I am an Assistant Professor at MIT. I like to build functional models of
  brains. My name in Chinese is 杨光宇.
+ 
+[My personal statement]({{< ref "pages/robertyang-diversity-statement.md" >}}) on diversity that complements the group's.
 
