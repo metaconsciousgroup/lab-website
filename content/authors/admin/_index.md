@@ -66,5 +66,11 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an Assistant Professor at MIT. I like to build functional models of
- brains. My name in Chinese is 杨光宇.
+I am an Assistant Professor at MIT in the Department of Brain and Cognitive
+ Sciences, with shared appointment in the Department of Electrical Engineering
+  and Computer Science.
+ 
+ I like to build functional
+ models of brains. 
+ 
+ My name in Chinese is 杨光宇.
