@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'dlatorre@mit.edu'
+  link: 'mailto:dlatorre@mit.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fernanda_dltr
