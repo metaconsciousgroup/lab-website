@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/YuXie9596
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=6WgWvQUAAAAJ
+  link: https://scholar.google.com/citations?user=MpTt_i0AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/YuXie96
