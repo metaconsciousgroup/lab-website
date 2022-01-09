@@ -29,14 +29,14 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical Neuroscience
-  	institution: Weizmann Institute of Science
+    institution: Weizmann Institute of Science
     year: 2017 - 2021
   - course: MS in Theoretical Physics
     institution: Sapienza University of Rome
     year: 2015 - 2017
   - course: BS in Physics
     institution: Sapienza University of Rome
-    year: 2012 - 2015
+    year: 2015 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,6 +66,7 @@ email: ""
 user_groups:
 - Postdocs
 ---
+
 I am a service minded and detail-oriented theoretical neuroscience Postdoctoral Associate with strong computational abilities and interest in machine learning – specifically regarding questions of language and vision. I want to model the brain with machine learning tools and develop brain inspired learning principles which could aid to increase the performance of neural networks.
 
 If you are interested in my research, don't hesitate to email me. I will be more than happy to chat.
