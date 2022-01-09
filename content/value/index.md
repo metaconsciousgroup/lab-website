@@ -34,6 +34,7 @@ Signed (Alphabetic order of last name)
 - Christopher Jose Cueva
 - Ling Liang Dong
 - Fernanda De La Torre
+- Michelangelo Naim
 - Yudi Xie
 - Guangyu Robert Yang
 
