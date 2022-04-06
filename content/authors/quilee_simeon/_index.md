@@ -61,9 +61,12 @@ email: ""
 user_groups:
 - Grad Students
 ---
-I am a first year PhD student at in the Department of Brain and Cognitive Sciences (BCS). 
-I am fascinated by the complexity of the human brain and its ability to achieve functions that still seem ethereal. 
+I am a first year PhD student at in the Department of Brain and Cognitive Sciences (BCS). I am fascinated by the complexity of the human brain and its ability to achieve functions that still seem ethereal. 
+
 My research is in Computational Neuroscience where I look to the biological brain for inspiration to develop novel technologies. 
+
 My research interests range from augmenting existing brain-inspired technology (e.g. neural networks) with novel insights from experimental neuroscience to engineering transformative “neurotech" (e.g ex-vivo “brain-on-chip” neural compute, DNA storage & computation). 
+
 Besides neuroscience, I am interested in exploring areas in biotechnology, especially natural computing and bioinformatics.
+
 I am currently looking to recruit UROPs so please email me if you are interested in working with me!
