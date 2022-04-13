@@ -67,6 +67,6 @@ user_groups:
 - Postdocs
 ---
 
-I am a service minded and detail-oriented theoretical neuroscience Postdoctoral Associate with strong computational abilities and interest in machine learning – specifically regarding questions of language and vision. I want to model the brain with machine learning tools and develop brain inspired learning principles which could aid to increase the performance of neural networks.
+I am a service minded and detail-oriented theoretical neuroscience Postdoctoral Scientist with strong computational abilities and interest in machine learning – specifically regarding questions of language and vision. I want to model the brain with machine learning tools and develop brain inspired learning principles which could aid to increase the performance of neural networks.
 
 If you are interested in my research, don't hesitate to email me. I will be more than happy to chat.
