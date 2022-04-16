@@ -68,7 +68,7 @@ user_groups:
 ---
 How does the brain learn? How to apply our knowledge of how the brain learns to help people learn, design intelligent machines, and in a broader sense, benefit the entire society? My research is motivated by these questions.
 
-I am working on building large-scale learning models of the brain. We already know there are many kinds of learning, such as supervised learning, unsupervised learning, and reinforcement learning. However, people mostly studied different kinds of learning separately. I am working on building large scale models that account for how different kinds of learning happen and interact in distributed processes in the brain. Several key component of learning are identified:
+My research interests are at the intersection of machine learning and neuroscience. There are many kinds of learning in machine learning terms, such as supervised learning, unsupervised learning, and reinforcement learning. Previous research has found links between these kinds of learning and biological processes in the brain. However, people mainly studied different kinds of learning separately. I am working on building integrated multi-systems models that account for how different kinds of learning happen and interact in distributed processes in the brain. Several key components of learning are identified:
 
 1. fast, few-shot learning and inference in the prefrontal areas,
 2. slow but important procedural learning in the basal ganglia,
@@ -78,5 +78,3 @@ I am working on building large-scale learning models of the brain. We already kn
 
 
 Eventually, I hope to build a unified model that combine all these components to account for all kinds of learning processes in the brain. I will use the model to generate testable predictions about learning behavior in human and animal. The model will be compared and validated by neural recoding data. Besides the brain, the model will provide important insights about how to build intelligent machine, for example providing insights to hierarchical reinforcement learning and the value alignment problem in AI.
-
-If you are interested in my research, don't hesitate to email me. I will be more than happy to chat.
