@@ -20,6 +20,7 @@ content:
   - Postdocs
   - Grad Students
   - Administration
+  - Master Students
   - Visitors
   - Alumni
 design:
