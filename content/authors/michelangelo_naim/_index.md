@@ -22,9 +22,9 @@ bio: I'm Michelangelo, but everyone calls me Michi.
 
 interests:
 - Computational Neuroscience
-- Probability
-- Episodic memory
+- Memory
 - Language
+- Reinforcement Learning
 
 education:
   courses:
