@@ -35,6 +35,7 @@ Signed (Alphabetic order of last name)
 - Ling Liang Dong
 - Fernanda De La Torre
 - Michelangelo Naim
+- Quilee Simeon
 - Yudi Xie
 - Guangyu Robert Yang
 
