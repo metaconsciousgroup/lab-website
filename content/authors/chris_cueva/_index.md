@@ -69,7 +69,7 @@ user_groups:
 
 I am interested in natural and artificial intelligence. 
 
-I'm always interested in collaborating and mentoring so if you'd like to work together please send me an email.
+I'm always interested in collaborating so if you'd like to work together please send me an email.
 
 
 
