@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 
 My research goal is to develop more integrated models of the brain, which would eventually allows us to bridge the gap between all the different approaches from which the brain can be studied. More precisely, I am currently developing a high-throughput pipeline to scale up the process of building and evaluating Recurrent Neural Network models of the brain. In the long term, I also hope that my research will be useful to better understand other complex systems and help our society to face its current challenges.
