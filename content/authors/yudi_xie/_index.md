@@ -66,7 +66,7 @@ email: ""
 user_groups:
 - Grad Students
 ---
-How does the brain learn? How to apply our knowledge of how the brain learns to help people learn, design intelligent machines, and in a broader sense, benefit the entire society? My research is motivated by these questions.
+How does the brain learn? How to apply our knowledge of how the brain learns to help people learn, design intelligent machines that not only help us automate tasks but really help us learn and understand the complex world? My research is motivated by these questions.
 
 My research interests are at the intersection of machine learning and neuroscience. There are many kinds of learning in machine learning terms, such as supervised learning, unsupervised learning, and reinforcement learning. Previous research has found links between these kinds of learning and biological processes in the brain. However, people mainly studied different kinds of learning separately. I am working on building integrated multi-systems models that account for how different kinds of learning happen and interact in distributed processes in the brain. Several key components of learning are identified:
 
