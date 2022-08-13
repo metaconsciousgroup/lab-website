@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Graduate Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
