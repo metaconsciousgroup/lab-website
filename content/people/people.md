@@ -21,7 +21,7 @@ content:
   - Grad Students
   - Administration
   - Master Students
-  - Visitors
+  - Research Assistants
   - Alumni
 design:
   show_interests: false
