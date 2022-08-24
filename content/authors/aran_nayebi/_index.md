@@ -15,7 +15,7 @@ role: Postdoctoral Scientist
 # Organizations/Affiliations
 organizations:
 - name: MIT
-  url: https://anayebi.github.io
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an ICoN Postdoctoral Fellow at MIT, primarily working with Guangyu Robert Yang, Mehrdad Jazayeri, and Michael Halassa. My primary interests lie at the intersection of systems neuroscience and artificial intelligence, where I use tools from deep learning and large-scale data analysis to reverse engineer neural circuits.
@@ -41,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://anayebi.github.io
 - icon: envelope
   icon_pack: fas
   link: "mailto:anayebi@mit.edu"
