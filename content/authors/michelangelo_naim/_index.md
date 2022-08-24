@@ -43,6 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://naiimic.github.io/
 - icon: envelope
   icon_pack: fas
   link: "mailto:mnaim@mit.edu"
