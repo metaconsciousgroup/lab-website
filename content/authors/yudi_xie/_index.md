@@ -45,7 +45,7 @@ social:
   link: "mailto:yudixie235@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/YuXie9596
+  link: https://twitter.com/YudiXie235
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=MpTt_i0AAAAJ
