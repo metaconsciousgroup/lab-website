@@ -43,15 +43,15 @@ social:
 - icon: link
   icon_pack: fas
   link: https://yudixie.github.io/
-# - icon: envelope
-#   icon_pack: fas
-#   link: "mailto:yudixie235@gmail.com"
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/YudiXie235
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=MpTt_i0AAAAJ
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:yudixie235@gmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YudiXie235
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=MpTt_i0AAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/YudiXie
