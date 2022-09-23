@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Neuroscience
     institution: Columbia University
-#    year: 2012
+#    year: 2019
   - course: BS in Physics, BS in Mathematics
     institution: Stanford University
-#    year: 2009
+#    year: 2015
 
 
 # Social/Academic Networking
@@ -67,7 +67,7 @@ user_groups:
 - Postdocs
 ---
 
-I am interested in natural and artificial intelligence. 
+I study natural and artificial intelligence. 
 
 I'm always interested in collaborating so if you'd like to work together please send me an email.
 
