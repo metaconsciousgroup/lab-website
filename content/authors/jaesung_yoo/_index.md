@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: https://jaesung.tech.blog/
 - icon: envelope
   icon_pack: fas
   link: "mailto:jsyoo61@mit.edu"
@@ -53,9 +56,6 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/CV_jaesungyoo.pdf
-- icon: link
-  icon_pack: fas
-  link: https://jaesung.tech.blog/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
