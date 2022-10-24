@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Research Assistants
 ---
 
 I am interested in modeling the brain in silico. In micro scale I’m interested in the learning and memory of the neural network, as to how the information is stored within a deep learning model or how the neural architectures affect learning. In macro scale I’m interested in how the deep learning modules could act like brain regions which interact in synchrony to perform cognitive tasks.
