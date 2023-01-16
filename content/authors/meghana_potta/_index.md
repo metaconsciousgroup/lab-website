@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Alumni
 ---
 
 With 2+ years of full-stack software development under my belt, I transitioned into the world of neuroscience to reverse-engineer the brain so as to extract the underlying computational primitives. I am a Master's student at the Institute of Neuroinformatics at ETH Zurich & University of Zürich, where I focus on the mathematical modeling of cognition. Currently, I am visiting the MetaConscious group to study neural dynamics.
