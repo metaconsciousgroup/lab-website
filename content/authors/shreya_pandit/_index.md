@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 I am a research assistant with a background in computer science and cognitive science. I am interested in understanding why and how humans experience emotion. I am exploring how to model motivation with Robert Yang in a reinforcement learning framework.
 
