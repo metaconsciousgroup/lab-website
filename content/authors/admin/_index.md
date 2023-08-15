@@ -6,7 +6,7 @@ title: Guangyu Robert Yang
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Silverman (1968) Family Career Development Assistant Professor
 
 # Organizations/Affiliations
 organizations:
