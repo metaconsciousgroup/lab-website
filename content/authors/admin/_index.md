@@ -66,11 +66,8 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an Assistant Professor at MIT in the Department of Brain and Cognitive
- Sciences, with shared appointment in the Department of Electrical Engineering
-  and Computer Science.
+I am an Silverman (1968) Family Career Development Assistant Professor at MIT in the Department of Brain and Cognitive Sciences, with shared appointment in the Department of Electrical Engineering and Computer Science.
  
- I like to build functional
- models of brains. 
+I like to build functional models of brains. 
  
- My name in Chinese is 杨光宇.
+My name in Chinese is 杨光宇.
