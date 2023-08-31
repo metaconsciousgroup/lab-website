@@ -20,12 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Computational Neuroscience
-- Memory
-- Dynamical Systems
-- Reinforcement Learning
-
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
