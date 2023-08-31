@@ -7,7 +7,7 @@
 
 theme_day: minimal
 theme_night: minimal
-day_night: false
+day_night: true
 font: minimal  # can be minimal, classic, rose, mr robot, native
 font_size: L
 
