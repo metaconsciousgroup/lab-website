@@ -5,10 +5,9 @@
 
 # Appearance
 
-theme: minimal
-# theme: 1950s
+theme_day: minimal
+theme_night: minimal
 day_night: false
-# font: native
 font: minimal  # can be minimal, classic, rose, mr robot, native
 font_size: L
 
