@@ -4,7 +4,7 @@ title: Nathan Kong
 
 # Username (this should match the folder name)
 authors:
-- nathan_kong
+- zathan_kong
 
 # Is this the primary user of the site?
 superuser: false
