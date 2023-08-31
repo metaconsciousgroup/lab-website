@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ali Hummos
+title: Nathan Kong
 
 # Username (this should match the folder name)
 authors:
-- ali_hummos
+- nathan_kong
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,40 +18,31 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: From medical school to training in psychiatry and Computational Neuroscience PhD, moving on contributing to machine learning research and currently at the interface between neuroscience, machine learning, and computational psychiatry.
+bio: 
 
-interests:
-- Computational Neuroscience
-- Principles of intelligence
-- Context inference
-- Animal-like adaptive learning
-- Reinforcement Learning
+education:
+  courses:
+  - course: PhD in Cognitive Neuroscience
+    institution: Stanford University
+  - course: MS in Electrical Engineering
+    institution: Stanford University
+  - course: BASc in Engineering Science
+    institution: University of Toronto
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: link
-  icon_pack: fas
-  link: https://hummosa.github.io/
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ahummos@mit.edu"
+  link: "mailto:nclkong@mit.edu"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=YFDOLsUAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/hummosa
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/CV_ali_Hummos.pdf
+  link: https://scholar.google.com/citations?user=Iz9qpyUAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ahummos@mit.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -59,6 +50,5 @@ user_groups:
 - Postdocs
 ---
 
-Neuroscience had stagnanted, and the recent surge in AI was both a breath of life and a storm. New tools and new paradigms bloomed. For the perfect primoridial soup, cognitive science is also increasingly becoming another essential tool. Despite the disorienting landscapes in between these fields, I firmly hold that the proper step forward in the study of intelligence means a step forward in neuroscience, cognitive science, and in machine learning.
-
-You will probably find me at Cosyne, ICLR, NeurIPS or CCN. Would be happy to chat and collaborate.  
+I'm broadly interested in how animals learn new tasks and switch between them.
+If you are interested in my research or other things I do, please feel free to email me! :)
