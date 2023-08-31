@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aran Nayebi
+title: ZZ
 
 # Username (this should match the folder name)
 authors:
