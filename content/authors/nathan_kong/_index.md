@@ -20,6 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+- Computational Neuroscience
+- Memory
+- Dynamical Systems
+- Reinforcement Learning
+
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
@@ -47,8 +53,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Postdocs
 ---
 
 I'm broadly interested in how animals learn new tasks and switch between them.
-If you are interested in my research or other things I do, please feel free to email me!
+If you are interested in my research or other things I do, please feel free to email me! :)
