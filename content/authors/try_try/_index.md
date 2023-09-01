@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Postdocs
 ---
 
 As a senior undergraduate student studying artificial intelligence, I'm constantly amazed by the transformative power of AI in our world. However, with the exciting progress of deep learning, our understanding of intelligence still remains limited. 
