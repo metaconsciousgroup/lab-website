@@ -70,6 +70,6 @@ user_groups:
 - Postdocs
 ---
 
-I am a service minded and detail-oriented theoretical neuroscience Postdoctoral Scientist with strong computational abilities and interest in machine learning – specifically regarding questions of language and vision. I want to model the brain with machine learning tools and develop brain inspired learning principles which could aid to increase the performance of neural networks.
+I am a service-minded, detail-oriented Postdoctoral Scientist with a strong background in physics and math. I have a profound passion for AI, especially in the areas of language and memory. My goal is to use AI to model the brain, hoping to develop brain-inspired learning principles to boost neural network performance. I am deeply committed to AI safety and its responsible advancement. I also aim to make AI more understandable, believing that this will help us learn and grow faster.
 
 If you are interested in my research or other things I do ( https://naiimic.github.io ), don't hesitate to email me. I will be more than happy to chat.
