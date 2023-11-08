@@ -19,6 +19,6 @@ design:
 
 <br>
 
-At the **MetaConscious Group**, we study how to build functional models of
- brains, with a particular interest in cognition. The group is directed by
-  Guangyu Robert Yang at MIT.
+At the **MetaConscious Group**, we study how to build functional models of brains, with a particular interest in cognition. The group is directed by Guangyu Robert Yang at MIT.
+  
+For the 2023/2024 academic year, the MetaConscious Group will not be accepting PhD program applications. Thank you for your interest
